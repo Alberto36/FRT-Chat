@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Cion Chat",
+  "launch_path": "/index.html",
+  "description": "NoSQL Real Time Chat",
+  "developer": {
+    "name": "Cion",
+    "url": "https://"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Cion Chat",
+      "description": "NoSQL Real Time Chat"
+    }
+  }
+}
